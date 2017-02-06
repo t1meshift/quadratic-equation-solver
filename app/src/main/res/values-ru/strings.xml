@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Квадратные уравнения</string>
+    <string name="action_about">Об авторе</string>
+    <string name="enter_a">Значение a:</string>
+    <string name="enter_b">Значение b:</string>
+    <string name="enter_c">Значение c:</string>
+    <string name="solved">Корни уравнения:</string>
+    <string name="show_solution">Показать решение</string>
+    <string name="solve_btn">Решить</string>
+    <string name="no_sol">У уравнения нет действительных решений.</string>
+    <string name="title_activity_about_me">Об авторе</string>
+    <string name="main_coder">Приложение было сделано с любовью t1meshift\'ом.</string>
+    <string name="return_btn">Вернуться</string>
+    <string name="not_quadratic">Это не квадратное уравнение!</string>
+    <string name="title_activity_solution">Решение</string>
+    <string name="dano_ur">Дано уравнение:</string>
+    <string name="need2findD">Чтобы найти корни уравнения, нам нужно найти дискриминант: </string>
+    <string name="Dlt0">Поскольку дискриминант меньше 0, уравнение не имеет решений.</string>
+    <string name="Dis0">Дискриминант равен 0, уравнение имеет единственное решение. Найдём его:\nx = -b/(2a)</string>
+    <string name="Dgt0">Дискриминант больше нуля, уравнение имеет два решения. Найдём их:</string>
+    <string name="otvet">Ответ: </string>
+    <string name="show_graph">Показать график</string>
+    <string name="title_activity_graph">График</string>
+    <string name="vertex">в</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quadratic Equation Solver</string>
+    <string name="action_about">About author</string>
+    <string name="enter_a">Enter \'a\' value:</string>
+    <string name="enter_b">Enter \'b\' value:</string>
+    <string name="enter_c">Enter \'c\' value:</string>
+    <string name="solve_btn">Solve!</string>
+    <string name="solved">The roots of the equation:</string>
+    <string name="show_solution">Show the solution</string>
+    <string name="no_sol">There are no solutions for this equation.</string>
+    <string name="title_activity_about_me">About author</string>
+    <string name="main_coder">This app was made with love by t1meshift.</string>
+    <string name="t1meshift_link" translatable="false">http://t1meshift.ru</string>
+    <string name="return_btn">Return</string>
+    <string name="not_quadratic">This equation is not quadratic!</string>
+    <string name="title_activity_solution">Solution</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="dano_ur">We have the equation:</string>
+    <string name="need2findD">To find the roots of this equation, we need to find discriminant:</string>
+    <string name="Dlt0">Discriminant is lower than 0, so the equation has no solutions.</string>
+    <string name="Dis0">Discriminant equals 0, so the equation has only solution. Find it with:\nx = -b/(2a)</string>
+    <string name="Dgt0">Discriminant is greater than 0, so the equation has two solutions. Find it with:</string>
+    <string name="otvet">Answer:</string>
+    <string name="show_graph">Show graph</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="vertex">v</string>
+</resources>
